@@ -1,20 +1,20 @@
 const featuresData = [
-    {
-      title: 'Improving end distrusts instantly',
-      text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
-    },
-    {
-      title: 'Become the tended active',
-      text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
-    },
-    {
-      title: 'Message or am nothing',
-      text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
-    },
-    {
-      title: 'Really boy law county',
-      text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..',
-    },
-  ];
+  {
+    title: 'Instantly Improve Trust & Engagement',
+    text: 'AI-powered chatbots, like those built with GPT-3, can instantly enhance user trust by providing accurate, real-time responses and personalized interactions.',
+  },
+  {
+    title: 'Empower Active Participation',
+    text: 'With AI-driven automation, businesses and individuals can engage more effectively, ensuring seamless communication and increased productivity.',
+  },
+  {
+    title: 'Smart Messaging Solutions',
+    text: 'GPT-3 enables intelligent messaging systems that understand context, generate relevant replies, and facilitate natural conversations across various platforms.',
+  },
+  {
+    title: 'Enhancing Decision-Making',
+    text: 'AI models analyze vast amounts of data to provide actionable insights, helping businesses and users make informed decisions quickly and efficiently.',
+  },
+];
 
 export default featuresData;

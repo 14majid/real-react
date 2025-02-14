@@ -13,7 +13,7 @@ function WhatGPT3() {
   return (
     <div className='gpt3__whatgpt3 section___margin' id='whgpt3'>
       <div className='gpt3__whatgpt3-features'>
-        <Feature title='What is GPT-3' text='We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.'/>
+        <Feature title='What is GPT-3' text='GPT-3 (Generative Pre-trained Transformer 3) is a powerful AI language model developed by OpenAI. It uses deep learning to generate human-like text based on the input it receives.'/>
       </div>
 
       <div className='gpt3__whatgpt3-heading'>

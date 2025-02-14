@@ -11,8 +11,8 @@ function Article(props) {
         <div>
           <p>{props.date}</p>
           <h3>{props.text}</h3>
+          <p>{props.para}</p>
         </div>
-        <p>Read Full Article</p>
       </div>
     </div>
   )
